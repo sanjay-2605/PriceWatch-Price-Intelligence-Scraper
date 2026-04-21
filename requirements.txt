@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+sqlalchemy
+pandas
+numpy
+fake-useragent
